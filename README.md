@@ -9,9 +9,14 @@ imageWhitelist.out should contain one line per image.
 
 I.E.
 
-openshift3/ose-pod
+openshift3/ose-pod  
+
 openshift3/ose-docker-builder
+
 openshift3/ose-sti-builder
+
 openshift3/ose-docker-registry
+
 openshift3/ose-recycler
+
 openshift3/ose-keepalived-ipfailover
