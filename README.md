@@ -6,7 +6,9 @@ Then erase all docker containers that aren't running on node that the scrip has 
 
 You should use a imageWhitelist.out file in same directory as script to inject image names that you don't want to be erased
 imageWhitelist.out should contain one line per image.
+
 I.E.
+
 openshift3/ose-pod
 openshift3/ose-docker-builder
 openshift3/ose-sti-builder
