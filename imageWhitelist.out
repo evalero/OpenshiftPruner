@@ -1,0 +1,10 @@
+openshift3/ose-pod
+openshift3/ose-docker-builder
+openshift3/ose-sti-builder
+openshift3/ose-docker-registry
+openshift3/ose-recycler
+openshift3/ose-keepalived-ipfailover
+openshift3/ose-deployer
+openshift3/ose-haproxy-router
+openshift3/ose-f5-router
+jboss-eap-7/eap70-openshift
